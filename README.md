@@ -10,7 +10,7 @@
 
 1. 使用前请将`reliance`目录移动到第三方库目录中（`../Python/Python3.x/Lib/site-packages`）
 2. 请确保根目录下有`logs` `outputs`2个文件夹
-3. 请确认已安装相关的库：`requests`, `pyaudio`, `jieba`, `pypinyin`
+3. 请确认已安装相关的库：`requests`, `pyaudio`, `jieba`, `pypinyin`（您可运行`setup.bat`来安装）
 
 # 更新日志
 
