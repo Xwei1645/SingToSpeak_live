@@ -1,0 +1,4 @@
+requests
+pyaudio
+jieba
+pyoinyin
