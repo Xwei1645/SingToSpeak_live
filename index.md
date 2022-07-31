@@ -1,36 +1,36 @@
-## SingToSpeak_live
+# SingToSpeak_live
 
-You can use the [editor on GitHub](https://github.com/Xwei1645/SingToSpeak_live/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 爬取[B站直播](https://live.bilibili.com "哔哩哔哩干杯~")弹幕，并实时转化为VSQx自动播放的工具
+参考：[TyTalk](https://github.com/GalaxieT/TyTalk "by GalaxieT")（语调教方面）、[bilibili-danmu](https://github.com/jonssonyan/bilibili-danmu "by jonssonyan")(获取弹幕)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# 使用说明
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. 使用前请将`reliance`目录移动到第三方库目录中（`../Python/Python3.x/Lib/site-packages`）
+2. 请确保根目录下有`logs` `outputs`2个文件夹
+3. 请确认已安装相关的库：`requests`, `pyaudio`, `jieba`
 
-```markdown
-Syntax highlighted code block
+# 更新日志
 
-# Header 1
-## Header 2
-### Header 3
+## v0.8.9(2022.7.31，最新版本)
+- ### 首次发布
 
-- Bulleted
-- List
+# 关于作者
+### [bilibili大号](https://space.bilibili.com/573734644 "Xwei_P") [bilibili小号](https://space.bilibili.com/691973660 "是Xwie不是Xwei") [bilibili直播间](https://space.bilibili.com/691973660 "不定期使用SingToSpeak_live直播")
 
-1. Numbered
-2. List
+# 错误代码
 
-**Bold** and _Italic_ and `Code` text
+## ERROR #1
+### 原因：无法连接至更新服务器。
+### 解决方法：检查网络连接。
 
-[Link](url) and ![Image](src)
-```
+## ERROR #2
+### 原因：无法获取弹幕。
+### 解决方法：检查网络连接。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xwei1645/SingToSpeak_live/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## ERROR #3
+### 原因：输入的房间号格式不正确。
+### 解决方法：输入正确的房间号。
 
 ### Support or Contact
 
