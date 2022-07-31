@@ -1,7 +1,4 @@
-# SingToSpeak_live
-
-### 爬取[B站直播](https://live.bilibili.com "哔哩哔哩干杯~")弹幕，并实时转化为VSQx自动播放的工具
-参考：[TyTalk](https://github.com/GalaxieT/TyTalk "by GalaxieT")（语调教方面）、[bilibili-danmu](https://github.com/jonssonyan/bilibili-danmu "by jonssonyan")(获取弹幕)
+本项目参考：[TyTalk](https://github.com/GalaxieT/TyTalk "by GalaxieT")（语调教方面）、[bilibili-danmu](https://github.com/jonssonyan/bilibili-danmu "by jonssonyan")(获取弹幕)
 
 
 # 使用说明
@@ -12,26 +9,22 @@
 
 # 更新日志
 
-## v0.8.9(2022.7.31，最新版本)
-- ### 首次发布
+v0.8.9(2022.7.31，最新版本)
+- 首次发布
 
 # 关于作者
-### [bilibili大号](https://space.bilibili.com/573734644 "Xwei_P") [bilibili小号](https://space.bilibili.com/691973660 "是Xwie不是Xwei") [bilibili直播间](https://space.bilibili.com/691973660 "不定期使用SingToSpeak_live直播")
+[bilibili大号](https://space.bilibili.com/573734644 "Xwei_P") [bilibili小号](https://space.bilibili.com/691973660 "是Xwie不是Xwei") [bilibili直播间](https://space.bilibili.com/691973660 "不定期使用SingToSpeak_live直播")
 
 # 错误代码
 
 ## ERROR #1
-### 原因：无法连接至更新服务器。
-### 解决方法：检查网络连接。
+原因：无法连接至更新服务器。
+解决方法：检查网络连接。
 
 ## ERROR #2
-### 原因：无法获取弹幕。
-### 解决方法：检查网络连接。
+原因：无法获取弹幕。
+解决方法：检查网络连接。
 
 ## ERROR #3
-### 原因：输入的房间号格式不正确。
-### 解决方法：输入正确的房间号。
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+原因：输入的房间号格式不正确。
+解决方法：输入正确的房间号。
