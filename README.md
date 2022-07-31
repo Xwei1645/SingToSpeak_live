@@ -4,6 +4,7 @@
 
 本项目参考：[TyTalk](https://github.com/GalaxieT/TyTalk "by GalaxieT")（语调教方面）、[bilibili-danmu](https://github.com/jonssonyan/bilibili-danmu "by jonssonyan")(获取弹幕)
 
+您可点击[此处](https://www.wjx.top/vm/mBpVU3x.aspx "问卷星")反馈BUG/提供建议
 
 # 使用说明
 
