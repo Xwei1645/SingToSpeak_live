@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## SingToSpeak_live
 
 You can use the [editor on GitHub](https://github.com/Xwei1645/SingToSpeak_live/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
